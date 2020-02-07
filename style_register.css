@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(Green-Leaf-3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.h1 {
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.reg_form {
+    text-align: center;
+    margin: 100px 400px;
+}
+
+#registation {
+    width: 100%;
+    background-color: rgb(23, 160, 57);
+    opacity: 0.7;
+    padding: 50px 0px;
+}
+
+#button {
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#phone_num {
+    width: 70px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#pn {
+    width: 177px;
+    padding: 10px;
+    border-radius: 5px;
+    outline: 0px;
+}
+
+#but {
+    color: rgb(245, 245, 245);
+    font-size: 18px;
+}
+
+#butt {
+    width: 205px;
+    padding: 10px;
+    border-radius: 5px;
+    outline: 0px;
+    background-color: rgb(48, 136, 187);
+    border: 2px solid rgb(66, 34, 141);
+    font-size: 25px;
+}
